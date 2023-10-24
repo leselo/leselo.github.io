@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/teamwork/static/css/main.fc100a41.css",
+    "main.js": "/teamwork/static/js/main.bf4f8ad3.js",
+    "static/js/787.637e606c.chunk.js": "/teamwork/static/js/787.637e606c.chunk.js",
+    "static/media/logo.svg": "/teamwork/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/teamwork/index.html",
+    "main.fc100a41.css.map": "/teamwork/static/css/main.fc100a41.css.map",
+    "main.bf4f8ad3.js.map": "/teamwork/static/js/main.bf4f8ad3.js.map",
+    "787.637e606c.chunk.js.map": "/teamwork/static/js/787.637e606c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc100a41.css",
+    "static/js/main.bf4f8ad3.js"
+  ]
+}
